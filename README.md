@@ -1,16 +1,15 @@
 
-# Description
+# Description 
 
-This repository contains a simple dockerfile that when executed displays a message "Hello, Captain!"
+This repository contains a dockerfile that when executed displays a message "Hello, Captain!"
 </br>
 </br>
-
 
 
 ## Project Link 
 
 https://roadmap.sh/projects/basic-dockerfile
-
+</br>
 </br>
 
 
@@ -19,7 +18,6 @@ https://roadmap.sh/projects/basic-dockerfile
 ### 1.  Clone the repository
 ### 2.  Build docker image 
         docker build -t assignment .
-
 
 ### 3. Run docker container
         docker run assignment
